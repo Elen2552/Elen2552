@@ -1,5 +1,5 @@
 Green card N° 90864744
-is registered in a single centralized database 31.05.2023 09:29
+is registered in a single centralized database 23.11.2024 09:29
 Insurer
 Company name
 "IC "USG" PJSC
@@ -12,7 +12,7 @@ office@usg.ua
 Address
 32-A, Fedorova Ivana str,
 Expiration date
-from 01.06.2023 00:00 until 31.08.2023
+from 23.12.2024 00:00 until 22.02.2025
 inclusive
 Insurance payment
 3713.00 uah
